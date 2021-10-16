@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "A-My-docs",
+  "name": "a-my-docs",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
