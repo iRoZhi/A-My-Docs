@@ -33,6 +33,10 @@ Typecho稳定版1.1、MySQL5.7、PHP7.2
 
 将<code>A-My 压缩包</code>完整上传到服务器上 <code>Typecho</code> 的<code>/usr/themes/</code>文件夹内，解压，然后到<code>Typecho 后台-控制台-外观-启用</code>主题 。
 
+## AMy 插件文件安装
+
+将<code>AMy 压缩包</code>完整上传到服务器上 <code>Typecho</code> 的<code>/usr/plugins/</code>文件夹内，解压，然后到<code>Typecho 后台-控制台-插件-启用</code>插件。
+
 ## 更新主题
 
 <Alert type="warning">
