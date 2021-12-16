@@ -1,5 +1,6 @@
 ---
 title: 短代码
+order: 3
 group:
   title: 主题功能
   order: 4

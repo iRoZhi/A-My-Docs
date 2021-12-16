@@ -1,5 +1,6 @@
 ---
 title: 相册、书单、影单
+order: 4
 group:
   title: 主题功能
   order: 4
@@ -32,11 +33,9 @@ group:
 > 添加属于<code>「书单分类」</code>的一篇文章，即添加了一本新书。每篇文章就是一本书。文章的标题即书名。<br>
 > 在文章的自定义字段中分别相应字段，设置即可<br>
 > 编辑器中内容即为<code>读后感</code>，字段为书的介绍即为<code>介绍</code><br>
-> 添加评论即添加摘录<br>
-> ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172155435.png)
+> 添加评论即添加摘录<br> > ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172155435.png)
 
 ## 添加影单
 
 > 添加属于<code>「影单分类」</code>的一篇文章，即添加了一部影片。每篇文章就是一部影片。文章的标题即影名。<br>
-> 在文章的自定义字段中分别相应字段，设置即可<br>
-> ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172204724.png)
+> 在文章的自定义字段中分别相应字段，设置即可<br> > ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172204724.png)

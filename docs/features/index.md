@@ -1,5 +1,6 @@
 ---
 title: 独立页面
+order: 1
 group:
   title: 主题功能
   order: 4
@@ -33,9 +34,7 @@ group:
 > 使用方法：<br>
 >
 > 1. 先登录你的<code>豆瓣账号</code>，找到<code>豆瓣 id</code>
-> 2. 进入后台独立页面<code>添加独立页面</code>，自定义模板设置为<code>豆瓣</code>，找到<code>自定义字段</code>，添加自定义字段为<code>doubanID</code>，内容为你的<code>豆瓣 id</code>
->    ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172017042.png)
->    ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172014355.png)
+> 2. 进入后台独立页面<code>添加独立页面</code>，自定义模板设置为<code>豆瓣</code>，找到<code>自定义字段</code>，添加自定义字段为<code>doubanID</code>，内容为你的<code>豆瓣 id</code> > ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172017042.png) > ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172014355.png)
 
 ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172011705.png)
 ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172011395.png)
@@ -50,3 +49,12 @@ group:
 
 > 该页面为在线留言页面，评论较多的游客将会展示在留言墙上
 > ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172105792.png)
+
+## Github
+
+> 该页面为 GitHub 页面
+> 该页面主要获取用户 GitHub 仓库数据~<br>
+> 使用方法：<br>
+>
+> 1. 先登录你的<code>GitHub 账号</code>，找到<code>GitHub 用户名</code>
+> 2. 进入后台独立页面<code>添加独立页面</code>，自定义模板设置为<code>GitHub</code>，找到<code>自定义字段</code>，添加自定义字段为<code>github</code>，内容为你的<code>GitHub 用户名</code> > ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202112162017578.png) > ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202112162021204.png)

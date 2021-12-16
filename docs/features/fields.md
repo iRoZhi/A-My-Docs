@@ -1,5 +1,6 @@
 ---
 title: 自定义字段
+order: 2
 group:
   title: 主题功能
   order: 4
@@ -14,7 +15,7 @@ group:
 
 ## 文章类型
 
-1. 默认
+1. 文章
    ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172127458.png)
 
 2. 动态
@@ -25,6 +26,12 @@ group:
 
 4. 书单
    ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172129966.png)
+
+5. 影单
+   ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202112162025733.png)
+
+6. 三图模式
+   ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202112162025510.png)
 
 ## 相册
 
@@ -46,3 +53,17 @@ group:
 ### 书的介绍[5]
 
 ### 阅读进度[4]
+
+### 书的评分
+
+## 影单
+
+![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202112162028339.png)
+
+### 影片导演[2]
+
+### 影片的上映时间[3]
+
+### 影片的介绍[5]
+
+### 影片评分[4]

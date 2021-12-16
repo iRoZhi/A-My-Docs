@@ -5,6 +5,12 @@ group:
   order: 5
 ---
 
+## 主题安装启动后出现以下报错：
+
+![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202112162150692.png)
+
+> 若出现类似错误，说明 php 版本过高或过低,建议 php 版本调为 php7.3~
+
 ## 主题安装启动后出现以下页面铺满：
 
 ![](https://cdn.jsdelivr.net/gh/iRoZhi/irils-imgs/picgo/202110172209738.png)
